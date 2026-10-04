@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Halo, saya Listi Julia Ningrum
 
-<!--
-**Listijulia07/Listijulia07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Bisnis Digital
+💻 Tertarik pada Teknologi dan Pengembangan Digital
 
-Here are some ideas to get you started:
+## Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya adalah mahasiswa Bisnis Digital yang memiliki ketertarikan pada teknologi dan pemanfaatan solusi digital dalam berbagai kebutuhan.
+
+GitHub ini saya gunakan sebagai tempat untuk menyimpan dan mendokumentasikan berbagai kegiatan pembelajaran selama perkuliahan.
+
+Saat ini saya terus belajar, mengembangkan kemampuan, dan menambah pengalaman di bidang teknologi digital.
+
+---
+
+✨ *Keep Learning, Keep Growing!*
